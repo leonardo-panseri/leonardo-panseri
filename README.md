@@ -12,10 +12,10 @@
 - [Ebazon](https://github.com/davidemornatta/tiw-2021-mornatta-panseri-zancani) - E-commerce website made with Java servlets and a JavaScript frontend based on AJAX
 
 #### Master
-*Ongoing, links will be added later*
-- FPGA on Arduino
-- Nuxt.js website
-- Linear Optimization
+- [FPGA on Arduino](https://github.com/leonardo-panseri/cicero-on-vidor4000) - Porting of CICERO, a Domain-Specific Architecture to perform regular expression matching on FPGAs, to the Arduino MKR Vidor 4000
+- [RoboMarkt veichle routing problem](https://github.com/leonardo-panseri/for-project-2022) - Linear optimization model aided by heuristics to solve the veichle routing problem for a fictional company called RoboMarkt
+- [Nuxt.js website](https://github.com/amangabba/HYPE-GabbaPanseriNumeroliSanti) - Website for a tourism destination town
+
 
 ---
 
