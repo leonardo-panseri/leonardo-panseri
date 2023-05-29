@@ -7,8 +7,8 @@
 ### University Projects
 #### Master
 - [TheWorkshop](https://github.com/AIRLab-POLIMI/TheWorkshop) [CURRENTLY PRIVATE] - Reconfigurable wireless sensor network composed by wearable sensors that are used by performers to interact with robots.
-- [Miosix kernel extension](https://github.com/leonardo-panseri/miosix-timed-condition-variables) - Addition of the timed condition variables synchronization mechanism to the Miosix kernel, a real-time OS kernel for embedded devices.
 - [PrivTAP](https://github.com/PrivTap/PrivTap) - Privacy focused trigger-action platform that has been selected as finalist of the [SCORE competition](https://conf.researchr.org/track/icse-2023/icse-2023-score-2023), hosted by the [International Conference on Software Engineering (ICSE)](https://conf.researchr.org/home/icse-2023).
+- [Miosix kernel extension](https://github.com/leonardo-panseri/miosix-timed-condition-variables) - Addition of the timed condition variables synchronization mechanism to the Miosix kernel, a real-time OS kernel for embedded devices.
 - [CICERO on Arduino](https://github.com/leonardo-panseri/cicero-on-vidor4000) - Implementation of CICERO, a Domain-Specific Architecture to perform regular expression matching on FPGAs, on the Arduino MKR Vidor 4000. The goal of this project is to build a proof of concept for complex task offloading to FPGAs in the IoT world. We have built a low cost and energy efficient system that can perform intrusion detection with good tradeoffs compared to traditional systems.
 - [CICERO on Intel](https://github.com/leonardo-panseri/cicero-port-to-intel) - Porting of CICERO, a Domain-Specific Architecture to perform regular expression matching on FPGAs, to the Intel Cyclone 10 FPGA.
 - [RoboMarkt veichle routing problem](https://github.com/leonardo-panseri/for-project-2022) - Linear optimization model aided by heuristics to solve the veichle routing problem for a fictional company called RoboMarkt.
