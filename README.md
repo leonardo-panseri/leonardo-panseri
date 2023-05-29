@@ -1,20 +1,22 @@
 ## Greetings! I'm Leonardo👋
 🎓 Graduated in 2022 and currently attending a Master's Degree in Computer Science & Engineering at Politecnico di Milano  
-📖 My main interests are operating system programming, digital system design and computer security
+📖 My main interests are low-level software engineering, operating systems, digital system design and computer security
 
 ---
 
 ### University Projects
 #### Master
-- [PrivTAP](https://github.com/PrivTap/PrivTap) [CURRENTLY PRIVATE] - Privacy focused trigger-action platform developed in the context of the [SCORE competition](https://conf.researchr.org/track/icse-2023/icse-2023-score-2023), hosted by the [International Conference on Software Engineering (ICSE)](https://conf.researchr.org/home/icse-2023).
-- [CICERO on Arduino](https://github.com/leonardo-panseri/cicero-on-vidor4000) [CURRENTLY PRIVATE] - Implementation of CICERO, a Domain-Specific Architecture to perform regular expression matching on FPGAs, on the Arduino MKR Vidor 4000. The goal of this project is to build a proof of concept for complex task offloading to FPGAs in the IoT world. We have built a low cost and energy efficient system that can perform intrusion detection with good tradeoffs compared to traditional systems.
+- [TheWorkshop](https://github.com/AIRLab-POLIMI/TheWorkshop) [CURRENTLY PRIVATE] - Reconfigurable wireless sensor network composed by wearable sensors that are used by performers to interact with robots.
+- [Miosix kernel extension](https://github.com/leonardo-panseri/miosix-timed-condition-variables) - Addition of the timed condition variables synchronization mechanism to the Miosix kernel, a real-time OS kernel for embedded devices.
+- [PrivTAP](https://github.com/PrivTap/PrivTap) - Privacy focused trigger-action platform that has been selected as finalist of the [SCORE competition](https://conf.researchr.org/track/icse-2023/icse-2023-score-2023), hosted by the [International Conference on Software Engineering (ICSE)](https://conf.researchr.org/home/icse-2023).
+- [CICERO on Arduino](https://github.com/leonardo-panseri/cicero-on-vidor4000) - Implementation of CICERO, a Domain-Specific Architecture to perform regular expression matching on FPGAs, on the Arduino MKR Vidor 4000. The goal of this project is to build a proof of concept for complex task offloading to FPGAs in the IoT world. We have built a low cost and energy efficient system that can perform intrusion detection with good tradeoffs compared to traditional systems.
 - [CICERO on Intel](https://github.com/leonardo-panseri/cicero-port-to-intel) - Porting of CICERO, a Domain-Specific Architecture to perform regular expression matching on FPGAs, to the Intel Cyclone 10 FPGA.
 - [RoboMarkt veichle routing problem](https://github.com/leonardo-panseri/for-project-2022) - Linear optimization model aided by heuristics to solve the veichle routing problem for a fictional company called RoboMarkt.
 - [Nuxt.js website](https://github.com/amangabba/HYPE-GabbaPanseriNumeroliSanti) - Website for a tourism destination town.
 
 #### Bachelor
 - [TextEdit](https://github.com/leonardo-panseri/api-project-19-20) - Command line text editor with undo and redo capabilities.
-- [Histogram Equalizer](https://github.com/leonardo-panseri/rl-project-20-21) - VHDL description of an IP for a Virtex 7 FPGA that executes a simplified algorithm for image histogram equalization.
+- [Histogram Equalizer](https://github.com/leonardo-panseri/rl-project-20-21) - VHDL description of an IP for a Virtex 7 FPGA that executes an algorithm for image histogram equalization.
 - [Master of Renaissance](https://github.com/leonardo-panseri/ing-sw-2021-panseri-spada-mornatta) - JavaFX implementation of board game [Master of Renaissance](https://craniointernational.com/products/masters-of-renaissance/), with multiplayer up to 4 players.
 - [Ebazon](https://github.com/davidemornatta/tiw-2021-mornatta-panseri-zancani) - E-commerce website made with Java servlets and a JavaScript frontend based on AJAX.
 
