@@ -1,6 +1,6 @@
 ## Greetings! I'm Leonardo👋
-🎓 Graduated in 2022 and currently attending a Master's Degree in Computer Science & Engineering at Politecnico di Milano  
-📖 My main interests are low-level software engineering, operating systems, digital system design and computer security
+🎓 Graduated in 2024 with a Master's Degree in Computer Science & Engineering at Politecnico di Milano  
+<!--📖 My main interests are low-level software engineering, operating systems, digital system design and computer security-->
 
 ---
 
