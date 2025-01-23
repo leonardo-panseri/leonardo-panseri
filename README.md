@@ -1,6 +1,7 @@
 ## Greetings! I'm Leonardo👋
 🎓 Graduated in 2024 with a Master's Degree in Computer Science & Engineering at Politecnico di Milano  
 <!--📖 My main interests are low-level software engineering, operating systems, digital system design and computer security-->
+🛠️ Developing a virtual assistant for tabular data querying and insights through natural language at [Southwind](https://southwind.ai)
 
 ---
 
